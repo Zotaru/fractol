@@ -56,17 +56,19 @@ Julias X.XXX X.XXX
 ```shell
 >$ ./fractol Mandel
 ```
-This command will lauch the Mandelbrot's fractal.
+This command will lauch the Mandelbrot's fractal : 
+![Mandel](img/Mandel.png)
 ```shell
 >$ ./fractol Julias
 ```
-This command will lauch the Julias's fractal.
+This command will lauch the Julias's fractal :
+![Julias](img/Julias.png)
 
 ```shell
 >$ ./fractol Julias 0.285 0.01
 ```
-This command will lauch the Julias's fractal on the point : 0.285, 0.01.
-
+This command will lauch the Julias's fractal on the point : 0.285, 0.01 :
+![Julias_origin](img/Julias_0.285_0.01.png)
 
 #### Controls
 * Use the arrow keys or mouse to navigate the fractal.
@@ -91,15 +93,19 @@ Newton
 ```shell
 >$ ./fractol_bonus Mandel
 ```
+Give the same result just like the mandatory part.
 ```shell
 >$ ./fractol_bonus Julias
 ```
+Give the same result just like the mandatory part.
 ```shell
 >$ ./fractol_bonus Julias 0.285 0.01
 ```
+Give the same result just like the mandatory part.
 ```shell
 >$ ./fractol_bonus Newton
 ```
+![Newton](img/Newton.png)
 
 #### Controls bonus
 The controls are the same but I have added a two features:
@@ -108,11 +114,11 @@ The controls are the same but I have added a two features:
 
 ### Different Julias Fractal to try: 
 
-x      |   y
--------|-------
--0.79  | 0.15
--0.162 | 1.04
-0.3    | -0.01
--1.476 | 0.0
--0.12  | -0.77
-0.28   | 0.008
+x      |   y    |  image
+:-----:|:------:|:---------:
+-0.79  | 0.15   | ![julias_one](img/Julias_-0.79_0.15.png)
+-0.162 | 1.04   | ![julias_two](img/Julias_-0.162_1.04.png)
+0.3    | -0.01  | ![julias_three](img/Julias_0.3_-0.01.png)
+-1.476 | 0.0    | ![julias_four](img/Julias_-1.476_0.0.png)
+-0.12  | -0.77  | ![julias_five](img/Julias_-0.12_-0.77.png)
+0.28   | 0.008  | ![julias_six](img/Julias_0.28_0.008.png) 
