@@ -75,11 +75,11 @@ This command will lauch the Julias's fractal on the point : 0.285, 0.01 :
 * Use the mouse scroll or keypad +/- keys to zoom in and out. (if it's not in bonus you just zoom in the center)
 * Press ESC to exit the program.
 
-For Julias's fractal (same as Mandelbrot's fractal but i have added one feature):
+For Julias's fractal (same as Mandelbrot's fractal but I've added one feature):
 * Click on the screen to change the point and change the fractal.
 
 #### Execution bonus
-It's the same as before but now I have added the Newton fractal.
+It's the same as before but now I added the Newton fractal.
 
 ```shell
 >$ ./fractol_bonus
